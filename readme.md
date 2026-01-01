@@ -1,3 +1,5 @@
+# ⚠️こちらは設計の見直しによりレガシー版となったesn-labのアーカイブ用リポジトリです⚠️
+
 # esn-lab: Echo State Network 実験用Pythonパッケージ
 
 [日本語](./readme.md) | [English](./docs/readme-en.md)
